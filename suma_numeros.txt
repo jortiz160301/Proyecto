@@ -13,3 +13,4 @@ int main(){
 	cout<<"La suma de ambos números es de: "<<suma<<endl;
 }
 jose huele peste
+oye tu
