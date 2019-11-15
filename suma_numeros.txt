@@ -1,0 +1,15 @@
+﻿/*Este programa está diseñado para sumar dos números*/
+
+#include <iostream>
+using namespace std;
+int main(){
+	float numero1,numero2;
+	double suma;
+	
+	cout<<"Introduce un número por favor: "; cin>>numero1;
+	cout<<"Introuduce un segundo número por favor: "; cin>>numero2;
+	
+	suma = numero1 + numero2;
+	cout<<"La suma de ambos números es de: "<<suma<<endl;
+}
+jose huele peste
